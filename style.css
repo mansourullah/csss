@@ -1,0 +1,21 @@
+h1 {
+    font-size: 42px;
+    font-family: Georgia,
+}
+
+p {
+    font-size: 24px;
+    color:red
+}
+
+.blue {
+    color: blue;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+h2,h3 {
+    color: green;
+}
